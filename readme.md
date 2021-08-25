@@ -9,19 +9,19 @@
 <br />
 
 ### Contact me via:
-[<img width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/marek-barszcz/)
+[<img align="left" width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/marek-barszcz/)
 
 <br />
 <br />
 
 ### Technologies I use everyday:
-<img width="32px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img width="32px" src="https://img.icons8.com/color/48/000000/azure-1.png"/>
-<img width="32px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img width="32px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-<img width="32px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img width="32px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img width="32px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+[<img align="left" width="32px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img align="left" width="32px" src="https://img.icons8.com/color/48/000000/azure-1.png"/>](https://azure.microsoft.com/)
+[<img align="left" width="32px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>](https://www.javascript.com/)
+[<img align="left" width="32px" src="https://img.icons8.com/color/48/000000/typescript.png"/>](https://www.typescriptlang.org/)
+[<img align="left" width="32px" src="https://img.icons8.com/color/48/000000/css3.png"/>](https://css-tricks.com/)
+[<img align="left" width="32px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img align="left" width="32px" src="https://img.icons8.com/color/48/000000/react-native.png"/>](https://reactjs.org/)
 
 
 <br />
